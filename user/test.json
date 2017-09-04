@@ -1,4 +1,5 @@
 {
     "username": "test",
-    "email": "test"
+    "email": "test",
+    "public": "foo"
 }
